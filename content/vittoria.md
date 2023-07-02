@@ -16,5 +16,5 @@ non riesco comunque a capire come mettere in ordine i post ma si vedrà dopo ;D
 ---
 
 
-Aggiornamento 30/06/2023 ho capito come fare ma ormai lascio tutto qui, troppi ricordi...
+Aggiornamento 30/06/2023 ho capito come metterli in ordine ma ormai lascio tutto così, troppi ricordi...
  !["swag"](gianni.jpg)
