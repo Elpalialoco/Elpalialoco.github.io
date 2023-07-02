@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fatto male è meglio no? (╯°□°）╯︵ ┻━┻</title>
-    <link>https://elpalialoco.com/</link>
+    <link>https://elpalialoco.github.io/</link>
     <description>Recent content on Fatto male è meglio no? (╯°□°）╯︵ ┻━┻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <copyright>aiuto :(</copyright><atom:link href="https://elpalialoco.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>aiuto :(</copyright><atom:link href="https://elpalialoco.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Facciamo un gioco</title>
-      <link>https://elpalialoco.com/tags/</link>
+      <link>https://elpalialoco.github.io/tags/</link>
       <pubDate>Thu, 29 Jun 2023 17:56:18 +0200</pubDate>
       
-      <guid>https://elpalialoco.com/tags/</guid>
+      <guid>https://elpalialoco.github.io/tags/</guid>
       <description>Ok. Credo che tutti qui conoscano i pokemon no?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://elpalialoco.com/tags/featuredpok.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://elpalialoco.github.io/tags/featuredpok.jpg" />
     </item>
     
     <item>
       <title>Parmigiana</title>
-      <link>https://elpalialoco.com/categories/</link>
+      <link>https://elpalialoco.github.io/categories/</link>
       <pubDate>Thu, 29 Jun 2023 17:54:05 +0200</pubDate>
       
-      <guid>https://elpalialoco.com/categories/</guid>
+      <guid>https://elpalialoco.github.io/categories/</guid>
       <description>Valutiamo le parmigiane!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://elpalialoco.com/categories/featured-s.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://elpalialoco.github.io/categories/featured-s.jpg" />
     </item>
     
     <item>
       <title>M&#39;illumino d&#39;immenso</title>
-      <link>https://elpalialoco.com/cavolo/</link>
+      <link>https://elpalialoco.github.io/cavolo/</link>
       <pubDate>Tue, 27 Jun 2023 20:41:04 +0200</pubDate>
       
-      <guid>https://elpalialoco.com/cavolo/</guid>
+      <guid>https://elpalialoco.github.io/cavolo/</guid>
       <description>{ {&amp;lt; youtube &amp;ldquo;parte finale del link di youtube&amp;rdquo; &amp;gt;} } Questa cosa è la svolta, sono riuscito a mettere direttamente il collegamento (👉ﾟヮﾟ)👉 Sicuramente ne metterò altri ;P</description>
       
     </item>
     
     <item>
       <title>vittoria</title>
-      <link>https://elpalialoco.com/vittoria/</link>
+      <link>https://elpalialoco.github.io/vittoria/</link>
       <pubDate>Tue, 27 Jun 2023 20:31:12 +0200</pubDate>
       
-      <guid>https://elpalialoco.com/vittoria/</guid>
+      <guid>https://elpalialoco.github.io/vittoria/</guid>
       <description>Ok bastava cambiare da &amp;ldquo;draft: true&amp;rdquo; a &amp;ldquo;draft: false&amp;rdquo; per fare in modo che si vedessero i post senza avviare la pagina con &amp;ldquo;hugo server -D&amp;rdquo;&amp;hellip; beh è un buon promemoria</description>
       
     </item>
     
     <item>
       <title>Qui inizio a piangere</title>
-      <link>https://elpalialoco.com/a/</link>
+      <link>https://elpalialoco.github.io/a/</link>
       <pubDate>Tue, 27 Jun 2023 20:29:06 +0200</pubDate>
       
-      <guid>https://elpalialoco.com/a/</guid>
+      <guid>https://elpalialoco.github.io/a/</guid>
       <description>AAAAAAAAAAAAAAAAA questo post è pieno di cose a caso è piuttosto confuso # Vedo come una vittoria il fatto che io sia riuscito a mettere le immagini nei post</description>
       
     </item>
     
     <item>
       <title>post dove cerco di capire cose</title>
-      <link>https://elpalialoco.com/posts/</link>
+      <link>https://elpalialoco.github.io/posts/</link>
       <pubDate>Tue, 27 Jun 2023 20:17:14 +0200</pubDate>
       
-      <guid>https://elpalialoco.com/posts/</guid>
+      <guid>https://elpalialoco.github.io/posts/</guid>
       <description>Funziona davvero questa cosa?</description>
       
     </item>

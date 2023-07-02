@@ -4,7 +4,7 @@
   
     
       <url>
-            <loc>https://elpalialoco.com/tags/</loc>
+            <loc>https://elpalialoco.github.io/tags/</loc>
             <lastmod>2023-06-29T17:56:18+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -13,7 +13,7 @@
   
     
       <url>
-            <loc>https://elpalialoco.com/categories/</loc>
+            <loc>https://elpalialoco.github.io/categories/</loc>
             <lastmod>2023-06-29T17:54:05+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -22,7 +22,7 @@
   
     
       <url>
-            <loc>https://elpalialoco.com/cavolo/</loc>
+            <loc>https://elpalialoco.github.io/cavolo/</loc>
             <lastmod>2023-06-27T20:41:04+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -31,7 +31,7 @@
   
     
       <url>
-            <loc>https://elpalialoco.com/vittoria/</loc>
+            <loc>https://elpalialoco.github.io/vittoria/</loc>
             <lastmod>2023-06-27T20:31:12+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -40,7 +40,7 @@
   
     
       <url>
-            <loc>https://elpalialoco.com/a/</loc>
+            <loc>https://elpalialoco.github.io/a/</loc>
             <lastmod>2023-06-27T20:29:06+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -49,7 +49,7 @@
   
     
       <url>
-            <loc>https://elpalialoco.com/posts/</loc>
+            <loc>https://elpalialoco.github.io/posts/</loc>
             <lastmod>2023-06-27T20:17:14+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -62,7 +62,7 @@
   
     
       <url>
-            <loc>https://elpalialoco.com/</loc>
+            <loc>https://elpalialoco.github.io/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
