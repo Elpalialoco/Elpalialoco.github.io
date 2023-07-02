@@ -44,12 +44,12 @@
 
 [[main]]
   name = "Parmigiana"
-  pageRef = "categories"
+  pageRef = "mannaia2"
   weight = 20
 
 [[main]]
   name = "(👉ﾟヮﾟ)👉"
-  pageRef = "tags"
+  pageRef = "mannaia"
   weight = 30
 
 
